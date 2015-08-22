@@ -26,6 +26,12 @@ right: -100px;
 bottom: 10px;
 }
 
+#video {
+position: absolute; 
+right: 30px; 
+top: 43px;
+}
+
 h1 {
 	margin-bottom: -20px;
 	font-family: 'Finger Paint', cursive;
